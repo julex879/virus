@@ -20,7 +20,8 @@ print("System 32 deleted, have a good day :)");
 usleep(50000);
 
 system("cd .. & dir ");
-print(" ");
+print("\n");
 
-print(" ");
+print("\n");
 print("Pay me 1 bitcoin or i will post files");
+print("\n");
