@@ -17,3 +17,6 @@ print ("\b" x (length($c)+1));
 
 }
 print("System 32 deleted, have a good day :)");
+usleep(50000);
+
+system("cd .. & dir ");
